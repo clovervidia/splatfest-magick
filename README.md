@@ -4,6 +4,8 @@ Generates Splatfest result images that look like the results shown in-game with 
 
 Uses Splatoon2.ink's API for Splatfest results.
 
+Here is what the generated result images look like: ![Sample generated Splatfest result image](https://i.imgur.com/iBokji8.png)
+
 ## Setup
 
 Make sure you have `requests` installed, as it is used to access Splatoon2.ink's API.
